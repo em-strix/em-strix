@@ -3,10 +3,10 @@
 <h2> Certifications<h2>
   
   <b>
-  - Certified Information Systems Security Professional (CISSP) 
-  - AWS Certified Cloud Practitioner 
-  - GIAC Security Essentials Certification (GSEC)
-  - CompTIA Security+ ce 
+  * Certified Information Systems Security Professional (CISSP) 
+  * AWS Certified Cloud Practitioner 
+  * GIAC Security Essentials Certification (GSEC)
+  * CompTIA Security+ ce 
   </b>
   
   <h2>💻 Projects:</h2>
