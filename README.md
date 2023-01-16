@@ -6,7 +6,7 @@
   - [AWS Cloud Resume Challenge](https://github.com/em-strix/awscloudres)
 
 - <b>Python</b>
-  - [Practicing Python (Datastructures and Algorithms Demo) - coming soon]
+  - [Practicing Python (Hello World! - coming soon]
 
 <h2> Certifications<h2>
   
