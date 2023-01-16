@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1>Hello, I'm Eunice <br/><a href="https://github.com/em-strix"</a> <a href="https://www.linkedin.com/in/eunice-ivery/">Cybersecurity Professional and Cloud Practitioner</a> 
+<h2>💻 Projects:</h2>
+
+- <b>Cloud Resume Challenge, Jan 2023</b>
+  - [AWS Cloud Resume Challenge](https://github.com/em-strix/awscloudres)
+
+- <b>Python</b>
+  - [Practicing Python (Datastructures and Algorithms Demo) - coming soon]
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- Upskilling with Cloud Resume Challenge (coming soon) 
+
+<h2>  Connect with me on LinkedIn</h2>
+[linkedin]: https://www.linkedin.com/in/eunice-ivery/
 
 <!--
 **em-strix/em-strix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
